@@ -1,3 +1,5 @@
+<img src='https://i.imgur.com/VRsT9Vb.png' style='width: 100%' />
+
 # Hello, World!
 I am Nolan Kovacik, a full-stack engineer who corgis and games. Welcome to my GitHub!
 
